@@ -1,0 +1,18 @@
+{
+ "format_version": 2,
+ "header": {
+   "description": "A Test Resource Pack",
+   "name": "My Resource Pack",
+   "uuid":"e582d223-b527-469a-886e-cb2eb6dfcb4f",
+   "version": [1, 0, 0],
+   "min_engine_version": [1, 16, 0]
+  },
+ "modules": [
+   {
+     "description": "My First Add-On!",
+     "type": "resources",
+     "uuid": "e582d223-b527-469a-886e-cb2eb6dfcb5f",
+     "version": [1, 0, 0]
+   }
+ ]
+}
